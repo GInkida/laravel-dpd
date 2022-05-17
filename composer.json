@@ -14,7 +14,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": "^8.0",
-        "laravel/framework": "^8.40.0",
+        "laravel/framework": "^9.2",
         "guzzlehttp/guzzle": "^7.0",
         "bensampo/laravel-enum": "^3.0",
         "spatie/data-transfer-object": "^2.5",
