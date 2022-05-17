@@ -1,5 +1,5 @@
 {
-    "name": "sergeevpasha/laravel-dpd",
+    "name": "ginkida/laravel-dpd",
     "description": "DPD API wrapper for Laravel",
     "keywords": ["dpd", "laravel"],
     "type": "library",
